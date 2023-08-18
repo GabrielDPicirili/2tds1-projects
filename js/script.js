@@ -49,7 +49,7 @@ class Car {
     this.model = param2;
  }
 
-}*/
+}
  class CarsList{
     constructor(){
         this.cars = []
@@ -77,7 +77,7 @@ function createcar(){
 
     const car = new Car(brand, model);
 
-List.addCar(hotweels)
+List.addCar(hotweels);
 
     
     showhtml()
@@ -85,4 +85,4 @@ List.addCar(hotweels)
 
 function showhtml(){
 
-}
+}*/
